@@ -1,14 +1,14 @@
 # Memory Fragmentation Simulation
 
 A simple Java console program that simulates memory allocation using fixed-size memory blocks.  
-It supports classic allocation strategies and shows internal fragmentation for each block. :contentReference[oaicite:0]{index=0}
+It supports classic allocation strategies and shows internal fragmentation for each block.
 
 ## Features
 
 - Allocate memory using:
   - First-Fit
   - Best-Fit
-  - Worst-Fit :contentReference[oaicite:1]{index=1}
+  - Worst-Fit
 - Deallocate memory using a process ID.
 - View memory status:
   - Block number
@@ -16,4 +16,4 @@ It supports classic allocation strategies and shows internal fragmentation for e
   - Start–end addresses
   - Allocation status
   - Process ID
-  - Internal fragmentation :contentReference[oaicite:2]{index=2}
+  - Internal fragmentation
